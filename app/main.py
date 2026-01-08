@@ -14,7 +14,7 @@ class PredictionData(BaseModel):
     timestamp: datetime
 
 
-app = FastAPI()
+app = FastAPI(title="Enefit Energy Consumption & Production Forecasting")
 items = []
 
 
