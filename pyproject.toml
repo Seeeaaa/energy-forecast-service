@@ -1,7 +1,7 @@
 [project]
-name = "enefit-forecast-service"
+name = "energy-forecast-service"
 version = "0.1.0"
-description = "Enefit Energy Forecasting API"
+description = "Energy Forecasting API based on Enefit Kaggle competition"
 requires-python = ">=3.13"
 dependencies = [
     "pandas>=2.2",
